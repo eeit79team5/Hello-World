@@ -7,3 +7,6 @@ DIE
 WA
 HA
 HA
+ 
+WUHA~
+WUHA WUHA
