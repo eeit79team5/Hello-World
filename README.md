@@ -1,2 +1,9 @@
 # Hello-World
 HI,HELLO,I AM CCW
+
+GO
+TO
+DIE
+WA
+HA
+HA
